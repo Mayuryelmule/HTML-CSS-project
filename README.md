@@ -1,3 +1,3 @@
 # HTML-CSS-project 
 
-link:- https://html-css-project-cyan.vercel.app/
+StudySync UI link:- https://html-css-project-cyan.vercel.app/
